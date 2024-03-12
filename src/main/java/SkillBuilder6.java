@@ -1,7 +1,7 @@
 
 /**
- * SkillBuilder5 is a class for completing the Skill
- * Builder 5 assignment in Java.
+ * SkillBuilder6 is a class for completing this Skill
+ * Builder assignment in Java.
  *
  * @author <You>
  * @version 1.0
