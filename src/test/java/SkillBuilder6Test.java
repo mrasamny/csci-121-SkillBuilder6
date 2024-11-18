@@ -3,6 +3,8 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Random;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 class SkillBuilder6Test {
     private static Random random = new Random();
     private static String alphabet = "abcdefghijklmnopqrsuvwxz ABCDEFGHIJKLMNOPQRSUVWXZ";
